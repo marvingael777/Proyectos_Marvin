@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+    background-color: black
+}
+
+body {
+    color: aliceblue;
+    background-color: gray;
+}
+
+#imgp {
+    border: solid 2px black;
+}
